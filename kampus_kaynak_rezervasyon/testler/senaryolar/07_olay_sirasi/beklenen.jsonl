@@ -1,0 +1,12 @@
+{"no":1,"komut":"rezervasyon","durum":"TAMAM","rezervasyon_id":"r1","ucret":4,"bakiye":116}
+{"no":2,"komut":"rezervasyon","durum":"TAMAM","rezervasyon_id":"r2","ucret":5,"bakiye":115}
+{"no":3,"komut":"rezervasyon","durum":"TAMAM","rezervasyon_id":"r3","ucret":10,"bakiye":290}
+{"no":4,"komut":"rezervasyon","durum":"TAMAM","rezervasyon_id":"r4","ucret":30,"bakiye":570}
+{"no":5,"komut":"bekleme","durum":"TAMAM","bekleme_id":"b1","sira":1}
+{"no":6,"komut":"bekleme","durum":"TAMAM","bekleme_id":"b2","sira":1}
+{"no":7,"komut":"saat","durum":"TAMAM","olaylar":[]}
+{"no":8,"komut":"giris","durum":"TAMAM","yeni_durum":"KULLANIMDA"}
+{"no":9,"komut":"giris","durum":"TAMAM","yeni_durum":"KULLANIMDA"}
+{"no":10,"komut":"saat","durum":"RED","kod":"SAAT_GERI"}
+{"no":11,"komut":"saat","durum":"TAMAM","olaylar":[]}
+{"no":12,"komut":"saat","durum":"TAMAM","olaylar":[{"zaman":"2027-03-08T11:15","tur":"TAMAMLANDI","rezervasyon":"r3","kullanici":"a1","guvenilirlik":82},{"zaman":"2027-03-08T11:15","tur":"TAMAMLANDI","rezervasyon":"r4","kullanici":"t1","guvenilirlik":82},{"zaman":"2027-03-08T11:15","tur":"GELMEDI","rezervasyon":"r1","kullanici":"o1","guvenilirlik":65},{"zaman":"2027-03-08T11:15","tur":"GELMEDI","rezervasyon":"r2","kullanici":"o2","guvenilirlik":65},{"zaman":"2027-03-08T11:15","tur":"OTOMATIK_ATAMA","bekleme":"b2","rezervasyon":"r5","kullanici":"a1","ucret":2,"bakiye":288},{"zaman":"2027-03-08T11:15","tur":"OTOMATIK_ATAMA","bekleme":"b1","rezervasyon":"r6","kullanici":"o3","ucret":2,"bakiye":118}]}

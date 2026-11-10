@@ -1,0 +1,25 @@
+{"komut":"saat","zaman":"2027-03-14T09:00"}
+{"komut":"rezervasyon","kullanici":"o1","kaynak":"ODA-1","baslangic":"2027-03-16T10:00","bitis":"2027-03-16T12:00"}
+{"komut":"rezervasyon","kullanici":"o1","kaynak":"ODA-1","baslangic":"2027-03-17T10:00","bitis":"2027-03-17T11:00"}
+{"komut":"saat","zaman":"2027-03-15T00:00"}
+{"komut":"sorgu","tur":"kullanici","id":"o1"}
+{"komut":"rezervasyon","kullanici":"o1","kaynak":"ODA-2","baslangic":"2027-03-15T10:00","bitis":"2027-03-15T11:00"}
+{"komut":"iptal","rezervasyon":"r1"}
+{"komut":"iptal","rezervasyon":"r2"}
+{"komut":"saat","zaman":"2027-03-29T00:00"}
+{"komut":"kullanici_ekle","id":"d1","ad":"Düşük Güven","rol":"OGRENCI","sertifikalar":[],"bakiye":120,"guvenilirlik":49}
+{"komut":"rezervasyon","kullanici":"d1","kaynak":"ODA-1","baslangic":"2027-03-30T08:00","bitis":"2027-03-30T08:30"}
+{"komut":"rezervasyon","kullanici":"d1","kaynak":"ODA-1","baslangic":"2027-03-29T10:00","bitis":"2027-03-29T10:30"}
+{"komut":"paket","kullanici":"d1","kalemler":[{"kaynak":"ODA-1","baslangic":"2027-03-29T12:00","bitis":"2027-03-29T12:30"},{"kaynak":"ODA-2","baslangic":"2027-03-29T14:00","bitis":"2027-03-29T14:30"}]}
+{"komut":"rezervasyon","kullanici":"o1","kaynak":"ODA-2","baslangic":"2027-03-29T09:00","bitis":"2027-03-29T09:30"}
+{"komut":"rezervasyon","kullanici":"o1","kaynak":"ODA-2","baslangic":"2027-03-29T11:00","bitis":"2027-03-29T11:30"}
+{"komut":"saat","zaman":"2027-03-29T11:15"}
+{"komut":"rezervasyon","kullanici":"o1","kaynak":"ODA-1","baslangic":"2027-03-31T10:00","bitis":"2027-03-31T10:30"}
+{"komut":"rezervasyon","kullanici":"o1","kaynak":"ODA-1","baslangic":"2027-03-30T10:00","bitis":"2027-03-30T10:30"}
+{"komut":"kullanici_ekle","id":"z1","ad":"Sıfıra İnen","rol":"OGRENCI","sertifikalar":[],"bakiye":120,"guvenilirlik":10}
+{"komut":"rezervasyon","kullanici":"z1","kaynak":"ODA-2","baslangic":"2027-03-29T12:00","bitis":"2027-03-29T12:30"}
+{"komut":"kullanici_ekle","id":"y1","ad":"Yüze Çıkan","rol":"OGRENCI","sertifikalar":[],"bakiye":120,"guvenilirlik":99}
+{"komut":"rezervasyon","kullanici":"y1","kaynak":"ODA-2","baslangic":"2027-03-29T13:00","bitis":"2027-03-29T13:30"}
+{"komut":"saat","zaman":"2027-03-29T12:50"}
+{"komut":"giris","rezervasyon":"r9"}
+{"komut":"saat","zaman":"2027-03-29T13:30"}

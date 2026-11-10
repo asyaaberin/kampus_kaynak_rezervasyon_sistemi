@@ -1,0 +1,21 @@
+{
+  "saat": "2027-03-08T08:00",
+  "kaynak_turleri": {
+    "ODA":    { "hazirlik_dk": 0,  "temel_ucret": 6,  "enerji_yogun": true,  "sertifika": null },
+    "YAZICI": { "hazirlik_dk": 45, "temel_ucret": 10, "enerji_yogun": true,  "sertifika": null }
+  },
+  "roller": {
+    "OGRENCI": { "haftalik_kota": 50, "ileri_gun": 2, "azami_sure_dk": 60 }
+  },
+  "kaynaklar": [
+    { "id": "ODA-1", "ad": "Oda 1",     "tur": "ODA",    "izinli_roller": ["OGRENCI"] },
+    { "id": "ODA-2", "ad": "Oda 2",     "tur": "ODA",    "izinli_roller": ["OGRENCI"] },
+    { "id": "YAZ-1", "ad": "Yazıcı 1",  "tur": "YAZICI", "izinli_roller": ["OGRENCI"] },
+    { "id": "YAZ-2", "ad": "Yazıcı 2",  "tur": "YAZICI", "izinli_roller": ["OGRENCI"] }
+  ],
+  "bakim_pencereleri": [],
+  "kullanicilar": [
+    { "id": "o1", "ad": "Öğrenci Bir", "rol": "OGRENCI", "sertifikalar": [], "bakiye": 50, "guvenilirlik": 80 },
+    { "id": "o2", "ad": "Öğrenci İki", "rol": "OGRENCI", "sertifikalar": [], "bakiye": 50, "guvenilirlik": 80 }
+  ]
+}

@@ -1,0 +1,15 @@
+{"komut":"rezervasyon","kullanici":"o1","kaynak":"ODA-1","baslangic":"2027-03-08T10:00","bitis":"2027-03-08T11:00"}
+{"komut":"rezervasyon","kullanici":"o2","kaynak":"ODA-2","baslangic":"2027-03-08T10:00","bitis":"2027-03-08T10:30"}
+{"komut":"rezervasyon","kullanici":"o3","kaynak":"ODA-2","baslangic":"2027-03-08T11:00","bitis":"2027-03-08T11:30"}
+{"komut":"fiyat","kullanici":"a1","kaynak":"ODA-1","baslangic":"2027-03-08T11:00","bitis":"2027-03-08T12:00"}
+{"komut":"kaynak_ekle","id":"ODA-3","ad":"Toplantı Odası 3","tur":"ODA","izinli_roller":["OGRENCI"]}
+{"komut":"fiyat","kullanici":"a1","kaynak":"ODA-1","baslangic":"2027-03-08T11:00","bitis":"2027-03-08T12:00"}
+{"komut":"rezervasyon","kullanici":"a1","kaynak":"YAZ-1","baslangic":"2027-03-08T15:00","bitis":"2027-03-08T17:00"}
+{"komut":"rezervasyon","kullanici":"o1","kaynak":"YAZ-2","baslangic":"2027-03-08T14:00","bitis":"2027-03-08T16:00"}
+{"komut":"fiyat","kullanici":"o3","kaynak":"YAZ-1","baslangic":"2027-03-08T14:00","bitis":"2027-03-08T14:30"}
+{"komut":"rezervasyon","kullanici":"a1","kaynak":"LAB-1","baslangic":"2027-03-08T09:00","bitis":"2027-03-08T10:30"}
+{"komut":"rezervasyon","kullanici":"t1","kaynak":"CIH-1","baslangic":"2027-03-08T09:30","bitis":"2027-03-08T10:30"}
+{"komut":"fiyat","kullanici":"a1","kaynak":"CIH-1","baslangic":"2027-03-08T11:00","bitis":"2027-03-08T12:00"}
+{"komut":"iptal","rezervasyon":"r7"}
+{"komut":"fiyat","kullanici":"a1","kaynak":"CIH-1","baslangic":"2027-03-08T11:00","bitis":"2027-03-08T12:00"}
+{"komut":"fiyat","kullanici":"a1","kaynak":"ODA-1","baslangic":"2027-03-09T10:00","bitis":"2027-03-09T11:00"}

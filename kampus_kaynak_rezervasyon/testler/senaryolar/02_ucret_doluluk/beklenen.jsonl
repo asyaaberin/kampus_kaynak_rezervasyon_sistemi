@@ -1,0 +1,15 @@
+{"no":1,"komut":"rezervasyon","durum":"TAMAM","rezervasyon_id":"r1","ucret":4,"bakiye":116}
+{"no":2,"komut":"rezervasyon","durum":"TAMAM","rezervasyon_id":"r2","ucret":3,"bakiye":117}
+{"no":3,"komut":"rezervasyon","durum":"TAMAM","rezervasyon_id":"r3","ucret":3,"bakiye":117}
+{"no":4,"komut":"fiyat","durum":"TAMAM","ucret":6}
+{"no":5,"komut":"kaynak_ekle","durum":"TAMAM"}
+{"no":6,"komut":"fiyat","durum":"TAMAM","ucret":5}
+{"no":7,"komut":"rezervasyon","durum":"TAMAM","rezervasyon_id":"r4","ucret":30,"bakiye":270}
+{"no":8,"komut":"rezervasyon","durum":"TAMAM","rezervasyon_id":"r5","ucret":45,"bakiye":71}
+{"no":9,"komut":"fiyat","durum":"TAMAM","ucret":16}
+{"no":10,"komut":"rezervasyon","durum":"TAMAM","rezervasyon_id":"r6","ucret":12,"bakiye":258}
+{"no":11,"komut":"rezervasyon","durum":"TAMAM","rezervasyon_id":"r7","ucret":20,"bakiye":580}
+{"no":12,"komut":"fiyat","durum":"TAMAM","ucret":30}
+{"no":13,"komut":"iptal","durum":"TAMAM","iade":0,"bakiye":580,"guvenilirlik":75,"olaylar":[]}
+{"no":14,"komut":"fiyat","durum":"TAMAM","ucret":24}
+{"no":15,"komut":"fiyat","durum":"TAMAM","ucret":4}

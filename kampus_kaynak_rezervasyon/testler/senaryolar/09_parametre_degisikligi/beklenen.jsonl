@@ -1,0 +1,9 @@
+{"no":1,"komut":"rezervasyon","durum":"TAMAM","rezervasyon_id":"r1","ucret":15,"bakiye":35}
+{"no":2,"komut":"rezervasyon","durum":"RED","kod":"HAZIRLIK_IHLALI"}
+{"no":3,"komut":"rezervasyon","durum":"TAMAM","rezervasyon_id":"r2","ucret":12,"bakiye":38}
+{"no":4,"komut":"rezervasyon","durum":"RED","kod":"SURE_SINIRI"}
+{"no":5,"komut":"rezervasyon","durum":"TAMAM","rezervasyon_id":"r3","ucret":3,"bakiye":32}
+{"no":6,"komut":"rezervasyon","durum":"RED","kod":"ILERI_TARIH_SINIRI"}
+{"no":7,"komut":"rezervasyon","durum":"TAMAM","rezervasyon_id":"r4","ucret":9,"bakiye":23}
+{"no":8,"komut":"kullanici_ekle","durum":"RED","kod":"GECERSIZ_DEGER"}
+{"no":9,"komut":"kaynak_ekle","durum":"RED","kod":"TANIMSIZ_DEGER"}
